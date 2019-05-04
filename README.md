@@ -9,5 +9,5 @@ WallG ( Wallpaper Game )
 
 # Donasi Saya
 -Di Https://paypal.me/DonateTaufiq
-##### Update!!
-• Nantinya Akan Ada Update Wallpapernya, Jadi Pantengin Terus Github w Bro :)
+#### Update!!
+• Nantinya Akan Ada Update Wallpaper baru, Jadi Pantengin Terus Github w Bro :)
